@@ -1,0 +1,5 @@
+name "cutec2"
+description "Binding for cutec2 a 2D collision detection routines on primitives, boolean results and/or manifold generation, shape cast/sweep test, raycasts"
+authors "XXIV"
+copyright "Copyright © 2023, XXIV"
+license "zlib"
